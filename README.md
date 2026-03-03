@@ -17,6 +17,7 @@
 - [x] GitHub 密码重置与登录
 - [x] 创建第一个仓库 `2026`
 - [x] 学习 Markdown 语法编辑 README
+- [x] 完成 GitHub 加速配置文档
 - [ ] 上传第一个 Excel 模板文件
 
 ## 联系我
